@@ -19,9 +19,10 @@
 <option value="150">‚Q•ª‚R‚O•b </option>
 <option value="120">‚Q•ª </option>
 <option value="60">‚P•ª </option>
-<option value="30">‚R‚O•b </option>
-<p><input type="button" value="GO" id="goButton" /></p>
+<option value="10">‚P‚O•b </option>
 <BR><BR>
+<p><input type="button" value="Go" id="goButton" /></p>
+
 <SPAN ID="countdown">ŽžŠÔ‚ð‘I‚ñ‚Å GO ‚ð‰Ÿ‚µ‚Ä‚­‚¾‚³‚¢I</SPAN><BR><BR>
 <p><input type="button" value="•Â‚¶‚é" id="closeButton" /></p>
 </div>
